@@ -26,7 +26,7 @@ https://au2mator.com/create-an-azure-vm-azure-self-service-with-au2mator/?utm_so
 
 3.	Download and save this PowerShell Script to your au2mator Powershell Script Path
 
-4. See all other Active Directory Solutions in our <a href="https://au2mator.com/active-directory/?utm_source=github&utm_medium=social&utm_campaign=AZURE_CreateVM&utm_content=Readme">Showcase Gallery</a>
+4. See all other Azure Solutions in our <a href="https://au2mator.com/Azure/?utm_source=github&utm_medium=social&utm_campaign=AZURE_CreateVM&utm_content=Readme">Showcase Gallery</a>
 
 5. See our <a href="https://au2mator.com/blog/?utm_source=github&utm_medium=social&utm_campaign=AZURE_CreateVM&utm_content=Readme">Blog</a> for more Details
 
